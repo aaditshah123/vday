@@ -8,7 +8,7 @@ body {
 
 #envelope {
     position: relative;
-    height: 220px;
+    height: 180px;
     width: 280px;
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
@@ -79,13 +79,13 @@ body {
 }
 
 .line1 {
-    top: 15%;
+    top: 5%;
 }
 .line2 {
-    top: 30%;
+    top: 20%;
 }
 .line3 {
-    top: 50%;
+    top: 45%;
     text-align: center;
 }
 .line4 {
